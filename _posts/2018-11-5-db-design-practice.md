@@ -14,10 +14,11 @@ tags:
 ### 技巧来了
 
 答案是：有的
-![层级列表](images/5a01b8390001414f08900958.jpg)
+
+![_config.yml]({{ site.baseurl }}/images/5a01b8390001414f08900958.jpg)
 
 对于上图的部门层级结构，给出对应的数据库设计
-![数据库设计图](images/5a01b86a00011f5b10420720.jpg)
+![_config.yml]({{ site.baseurl }}/images/5a01b86a00011f5b10420720.jpg)
 
 ### 具体说一下：
 
